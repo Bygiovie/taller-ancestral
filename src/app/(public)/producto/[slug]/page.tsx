@@ -176,7 +176,7 @@ export default async function ProductoPage({ params }: PageProps) {
                 <CheckCircle2 className="h-4 w-4 text-green-600" /> Personalización incluida
               </div>
               <div className="flex items-center gap-1.5">
-                <CheckCircle2 className="h-4 w-4 text-green-600" /> Despacho a todo Chile
+                <CheckCircle2 className="h-4 w-4 text-green-600" /> Despacho IV Región de Coquimbo
               </div>
               <div className="flex items-center gap-1.5">
                 <CheckCircle2 className="h-4 w-4 text-green-600" /> Garantía de calidad

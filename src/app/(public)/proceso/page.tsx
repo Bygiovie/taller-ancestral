@@ -60,7 +60,7 @@ const PROCESS_STEPS = [
     phase: "07",
     title: "Entrega y seguimiento",
     duration: "Entrega",
-    description: "Embalaje profesional con materiales protectores, despacho seguro a todo Chile o retiro en taller. Se entrega certificado de autenticidad y guía de cuidados.",
+    description: "Embalaje profesional con materiales protectores, despacho en la IV Región de Coquimbo o retiro en taller. Se entrega certificado de autenticidad y guía de cuidados.",
     actions: ["Documentación fotográfica final", "Embalaje con materiales especiales", "Coordinación de despacho", "Envío de guía de cuidados"],
     techniques: [],
   },

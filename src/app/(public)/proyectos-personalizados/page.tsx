@@ -233,7 +233,7 @@ export default function ProyectosPersonalizadosPage() {
                     "Diseño a medida sin costo extra",
                     "50% anticipo, 50% a la entrega",
                     "Fotos del proceso de producción",
-                    "Despacho asegurado a todo Chile",
+                    "Despacho en la IV Región de Coquimbo",
                     "Garantía de calidad por escrito",
                   ].map((item) => (
                     <li key={item} className="flex items-center gap-2 text-sm text-[var(--foreground)]">

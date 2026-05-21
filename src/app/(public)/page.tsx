@@ -134,7 +134,7 @@ export default function HomePage() {
                   "Materiales premium seleccionados a mano",
                   "Certificación en resina epóxica y construcción antisísmica",
                   "Garantía de durabilidad: piezas para generaciones",
-                  "Despacho a todo Chile",
+                  "Despacho en la IV Región de Coquimbo",
                 ].map((item) => (
                   <li key={item} className="flex items-center gap-3 text-white/80">
                     <CheckCircle2 className="h-5 w-5 text-[var(--accent)] flex-shrink-0" />
@@ -159,7 +159,7 @@ export default function HomePage() {
                 { icon: <Star className="h-6 w-6" />, title: "Premium Quality", desc: "Materiales de primera selección con procesos certificados" },
                 { icon: <Clock className="h-6 w-6" />, title: "A Tu Medida", desc: "Diseñamos según tus dimensiones y necesidades exactas" },
                 { icon: <Users className="h-6 w-6" />, title: "Clientes Felices", desc: "Más de 200 proyectos entregados con satisfacción total" },
-                { icon: <Zap className="h-6 w-6" />, title: "Entrega Segura", desc: "Embalaje profesional y despacho cuidadoso a todo Chile" },
+                { icon: <Zap className="h-6 w-6" />, title: "Entrega Segura", desc: "Embalaje profesional y despacho en la IV Región de Coquimbo" },
                 { icon: <Award className="h-6 w-6" />, title: "Certificados", desc: "Maestro certificado en múltiples técnicas artesanales" },
               ].map((feature) => (
                 <div
@@ -293,7 +293,7 @@ export default function HomePage() {
               { num: "02", title: "Diseño", desc: "Creamos renders y planos de tu pieza" },
               { num: "03", title: "Cotización", desc: "Recibe precio detallado y plazo" },
               { num: "04", title: "Producción", desc: "Creamos tu pieza con actualizaciones de proceso" },
-              { num: "05", title: "Entrega", desc: "Enviamos asegurado a todo Chile" },
+              { num: "05", title: "Entrega", desc: "Entrega en la IV Región de Coquimbo" },
             ].map((step, i) => (
               <div key={step.num} className="relative text-center">
                 {i < 4 && (
