@@ -94,7 +94,7 @@ export default function RootPage() {
                   El resultado de combinar 6 técnicas en un solo taller: muebles y objetos únicos con alma propia.
                 </p>
                 <ul className="space-y-4">
-                  {["Diseño personalizado para cada cliente", "Materiales premium seleccionados a mano", "Certificación en resina epóxica y construcción antisísmica", "Garantía de durabilidad: piezas para generaciones", "Despacho a todo Chile"].map((item) => (
+                  {["Diseño personalizado para cada cliente", "Materiales premium seleccionados a mano", "Certificación en resina epóxica y construcción antisísmica", "Garantía de durabilidad: piezas para generaciones", "Despacho en la IV Región de Coquimbo"].map((item) => (
                     <li key={item} className="flex items-center gap-3 text-white/80">
                       <CheckCircle2 className="h-5 w-5 text-[var(--accent)] flex-shrink-0" /> {item}
                     </li>
